@@ -1,8 +1,8 @@
-describe('Login Page', function () {
+describe('Visiting the Login Page', function () {
 
     // Test case 1
   
-       it('Scenario ', function (){
+       it('Visit ', function (){
   
           // test step for URL launching
   
